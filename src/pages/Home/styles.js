@@ -2,7 +2,7 @@ import  styled  from "styled-components/native";
 
 export const ViewSpace = styled.View`
   flex-direction: column;
-  background-color: white;
+  background-color: #fafafa;
   
 
 `;
