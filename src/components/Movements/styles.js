@@ -32,3 +32,11 @@ export const Expenses = styled.Text`
   font-weight: bold;
   color: #e74c3c;
 `;
+
+export const Skeleton = styled.View`
+  margin-top: 6px;
+  width: 80px;
+  height: 10px;
+  background-color: #DADADA;
+  border-radius: 9px;
+`;
