@@ -22,21 +22,3 @@ export const Label = styled.Text`
   font-weight: bold;
   font-size: 16px;
 `;
-export const Value = styled.Text`
-  font-size: 16px;
-  font-weight: bold;
-  color: #2ecc71 ;
-`;
-export const Expenses = styled.Text`
-  font-size: 16px;
-  font-weight: bold;
-  color: #e74c3c;
-`;
-
-export const Skeleton = styled.View`
-  margin-top: 6px;
-  width: 80px;
-  height: 10px;
-  background-color: #DADADA;
-  border-radius: 9px;
-`;

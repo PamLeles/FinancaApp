@@ -4,7 +4,6 @@ import { StyleSheet } from "react-native";
 import { MotiView } from "moti";
 
 import {
-  Container,
   Item,
   ItemTitle,
   Content,
