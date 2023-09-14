@@ -13,19 +13,6 @@ export const Container = styled.View`
   padding-bottom: 44px;
 `;
 
-export const Contents = styled.View` 
-  flex: 1;
-  align-items: center;
-  flex-direction: row;
-  justify-content: space-between;
-`;
-
-export const UserName = styled.Text` 
-  font-size: 18px;
-  color: #fff;
-  font-weight: bold;
-`;
-
 export const ButtonUser = styled.TouchableOpacity` 
   width: 44px;
   height: 44px;

@@ -2,6 +2,7 @@ import React from "react";
 import Header from "../../components/Header/index.jsx";
 import Balance from "../../components/Balance/index.jsx";
 import Moviments from "../../components/Movements/index.jsx";
+import Actions from "../../components/Actions/index.jsx";
 
 import { Container, Title, List } from "./styles.js";
 
@@ -34,6 +35,7 @@ const Home = () => {
     <Container>
       <Header name="Ambrósio" />
       <Balance saldo="9.250,90" gastos="-527,00" />
+      <Actions />
       <Title> Ultimas Movimentações </Title>
       <List
         data={list}
