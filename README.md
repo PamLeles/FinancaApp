@@ -1,7 +1,11 @@
 # Finanças App
 
-Este é um aplicativo de finanças desenvolvido com React Native, uma estrutura que permite criar aplicativos móveis para iOS e Android. <br>
-O aplicativo utiliza a função useState para gerenciar o estado, a biblioteca styled-components para estilização e a biblioteca Moti para criar animações envolventes. Além disso, o aplicativo segue um padrão de componentização para melhor organização do código.
+Este é um aplicativo de finanças desenvolvido com React Native, uma estrutura que permite criar aplicativos móveis para iOS e Android. Ele utiliza a biblioteca Moti para animações suaves e interativas, proporcionando uma experiência de usuário agradável.
+
+## Interface
+
+ <image src='assets/Img/loading.jpeg' style="width:40%;">
+ <image src='assets/Img/home.jpeg' style="width:40%;">
 
 ## Como usar o Aplicativo
 
@@ -16,6 +20,6 @@ O aplicativo utiliza a função useState para gerenciar o estado, a biblioteca s
 ## Tecnologias Utilizadas
 
 - React Native: Framework de desenvolvimento de aplicativos móveis.
-- useState: Função do React para gerenciar o estado da aplicação.
+- Hooks: useState e useEffect
 - styled-components: Biblioteca para estilização de componentes.
-- Moti: Biblioteca para criar animações interativas em React Native.
+- <a hre="https://moti.fyi/"> Moti: Biblioteca para criar animações interativas em React Native. </a>
