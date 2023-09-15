@@ -22,4 +22,4 @@ Este é um aplicativo de finanças desenvolvido com React Native, uma estrutura 
 - React Native: Framework de desenvolvimento de aplicativos móveis.
 - Hooks: useState e useEffect
 - styled-components: Biblioteca para estilização de componentes.
-- <a hre="https://moti.fyi/"> Moti: Biblioteca para criar animações interativas em React Native. </a>
+- <a href="https://moti.fyi/"> Moti: Biblioteca para criar animações interativas em React Native.</a>
